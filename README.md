@@ -27,6 +27,5 @@ To start, you'll need the following things;
 8. Delete all the zips when finished. Select every folder (dont worry about the insides) and drag it into your USB/SD card, where the apps folder is. Put it IN the apps folder. (see image)
    <img width="661" height="424" alt="image" src="https://github.com/user-attachments/assets/ff7a8bee-a2c8-4a8f-af53-ba1a0296ba0f" />
 9. you should be good to go, lmk if anything changes and i'll fix it
-# ermmm tags
-oscdl mass download, oscdl download all, oscdl get all, open shop channel mass download, open shop channel download all, open shop channel get all
-listen i have to okay it spreads more for the people that need it
+boy oh boy i sure do hope my rep shows up on google
+the mischevious search engine of very selective words (it only shows up on OSCDL)
