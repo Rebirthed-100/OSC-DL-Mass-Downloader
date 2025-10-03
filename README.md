@@ -1,4 +1,5 @@
 # The OSCMD (Open Shop Channel Mass Downloader)
+## Downloads every app currently in the new rep API the Reposity Manager!
 ### previously the OSC-Mass-Downloader or the OSCDL-Mass-Downloader
 For when ya just aint patient no mo'.
 [*Go support the actual OSC team! They're the entire reason this thing exists. Maybe donate a dolla or two? Hm?*](https://oscwii.org/)
