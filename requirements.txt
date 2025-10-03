@@ -1,6 +1,7 @@
+aiohttp
 asyncio
 os
 json
 logging
-aiohttp
-tqdm
+shutil
+zipfile
